@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "ccf3",
+      "name": "anton",
+      "email": "an@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "481f",
+      "name": "buro",
+      "email": "bu@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "f5cf",
+      "name": "cindy",
+      "email": "ci@gmail.com",
+      "age": 22
+    },
+    {
+      "id": "cfbe",
+      "name": "Rayandra Rheza paleva ",
+      "email": "rayandrarheza000@gmail.com",
+      "age": 34
+    },
+    {
+      "id": "caf8",
+      "name": "Smart Garden NodeMCU",
+      "email": "dsadsa@gmail.com",
+      "age": 24
+    }
+  ]
+}
